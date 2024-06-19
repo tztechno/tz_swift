@@ -4,7 +4,6 @@
 # hello on swift simple server
 2024-06
 
----
 ```
  % swift build
 warning: could not determine XCTest paths: terminated(1): /usr/bin/xcrun --sdk macosx --show-sdk-platform-path output:
